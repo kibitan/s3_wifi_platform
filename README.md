@@ -1,2 +1,3 @@
-# s3_wifi_platform
-Seamless Secure Stable wifi platform
+# S3 - Seamless Secure Stable - Wifi Platform
+
+(TBC)
